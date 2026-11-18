@@ -1,6 +1,6 @@
-# Specula Case Studies
+# Specular Case Studies
 
-Experiment records produced with [Specula](https://github.com/specula-org/Specula), organized by system, module, and run.
+Experiment records produced with [Specular](https://github.com/specular-org/Specular), organized by system, module, and run.
 
 ## Repository layout
 
